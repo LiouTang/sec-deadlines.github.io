@@ -74,6 +74,17 @@
   place: Macau
   tags: [SEC, PRIV, CONF, CORE-A]
 
+- name: DFC Europe
+  description: Digital Forensics Conference Europe
+  year: 2027
+  link: https://dfrws.org/conferences/dfceurope2027/
+  dblp: https://dblp.org/db/conf/dfrws/index.html
+  deadline: ["2026-09-25 23:59"]
+  comment: Abstract and title registration required by September 18, 2026 (AoE).
+  date: March 30-April 2
+  place: Edinburgh, Scotland
+  tags: [SEC, CONF, OTHERS]
+
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2026
