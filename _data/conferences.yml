@@ -1,4 +1,13 @@
 # Security and Privacy
+- name: ICSS
+  description: Industrial Control System Security Workshop
+  year: 2026
+  link: https://www.acsac.org/2026/workshops/icss/
+  deadline: ["2026-08-28 23:59"]
+  date: December 8
+  place: Los Angeles, California, USA
+  tags: [SEC, SHOP, OTHERS]
+
 - name: S&P (Oakland)
   year: 2027
   date: TBA
